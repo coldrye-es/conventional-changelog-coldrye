@@ -1,0 +1,25 @@
+{
+  "name": "conventional-changelog-coldrye",
+  "version": "0.0.1",
+  "description": "conventional-changelog-coldrye preset based upon the conventional-changelog-angular preset",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coldrye-es/conventional-changelog-coldrye.git"
+  },
+  "keywords": [
+    "conventional-changelog",
+    "angular",
+    "coldrye",
+    "preset"
+  ],
+  "author": "Carsten Klein",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/coldrye-es/conventional-changelog-coldrye/issues"
+  },
+  "homepage": "https://github.com/coldrye-es/conventional-changelog-coldrye",
+  "dependencies": {
+    "conventional-changelog-angular": ">=1.1.0"
+  }
+}
